@@ -1,6 +1,6 @@
 # WordPress Projects
 
-<p align="center"><a href="https://wordpress.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/276006?s=200&v=4" width="200" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://wordpress.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/276006?s=200&v=4" width="150" alt="Laravel Logo"></a></p>
 
 Kindly find below a list of the GitHub repositories for my WordPress projects.
 
